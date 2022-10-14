@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.lightText {
+		@apply text-gray-blue/50 font-normal;
+	}
+}

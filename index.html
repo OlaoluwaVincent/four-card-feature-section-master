@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- displays site properly based on user's device -->
+
+		<link
+			rel="icon"
+			type="image/png"
+			sizes="32x32"
+			href="./images/favicon-32x32.png"
+		/>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="./css/styles.css" />
+
+		<title>Frontend Mentor | Four card feature section</title>
+	</head>
+	<body>
+		<main class="font-sans">
+			<section
+				class="flex flex-col items-center justify-center gap-10 text-gray-blue mx-auto p-10 max-w-7xl md:justify-evenly"
+			>
+				<!-- Top Header -->
+				<article
+					class="flex items-center justify-center mx-auto flex-col space-y-2 mb-14 md:max-w-lg"
+				>
+					<h1 class="font-extralight text-lg">
+						Reliable, efficient delivery
+					</h1>
+					<h2 class="font-semibold text-lg">Powered by Technology</h2>
+					<p class="lightText text-center">
+						Our Artificial Intelligence powered tools use millions
+						of project data points to ensure that your project is
+						successful
+					</p>
+				</article>
+				<article
+					class="flex flex-col md:flex-row items-center justify-center gap-5"
+				>
+					<!-- Supervisor -->
+					<div
+						class="px-8 py-10 flex flex-col bg-white shadow-lg border-t-4 rounded-lg border-cyan space-y-4"
+					>
+						<h1 class="font-semibold text-lg">Supervisor</h1>
+						<p class="lightText">
+							Monitors activity to identify project roadblocks
+						</p>
+						<img
+							src="/images/icon-supervisor.svg"
+							alt="Supervisor"
+							class="h-14 w-14 self-end"
+						/>
+					</div>
+					<!-- Team Builder and Karma -->
+					<aside
+						class="flex flex-col items-center justify-center gap-10"
+					>
+						<!-- Team Builder -->
+						<div
+							class="px-8 py-10 flex flex-col bg-white shadow-lg border-t-4 rounded-lg border-red space-y-4"
+						>
+							<h1 class="font-semibold text-lg">Team Builder</h1>
+							<p class="lightText">
+								Scans our talent network to create the optimal
+								team for your project
+							</p>
+							<img
+								src="/images/icon-team-builder.svg"
+								alt="Team Building"
+								class="h-14 w-14 self-end"
+							/>
+						</div>
+						<!-- Karma -->
+						<div
+							class="px-8 py-10 flex flex-col bg-white shadow-lg border-t-4 rounded-lg border-orange space-y-4"
+						>
+							<h1 class="font-semibold text-lg">Karma</h1>
+							<p class="lightText">
+								Regularly evaluates our talent to ensure quality
+							</p>
+							<img
+								src="/images/icon-karma.svg"
+								alt="Karma"
+								class="h-14 w-14 self-end"
+							/>
+						</div>
+					</aside>
+					<!-- Calculator -->
+					<div
+						class="px-8 py-10 flex flex-col bg-white shadow-lg border-t-4 rounded-lg border-blue space-y-4"
+					>
+						<h1 class="font-semibold text-lg">Calculator</h1>
+						<p class="lightText">
+							Uses data from past projects to provide better
+							delivery estimates
+						</p>
+						<img
+							src="/images/icon-calculator.svg"
+							alt="Calculator"
+							class="h-14 w-14 self-end"
+						/>
+					</div>
+				</article>
+			</section>
+		</main>
+
+		<!-- <footer>
+    <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Your Name Here</a>.
+    </p>
+  </footer> -->
+	</body>
+</html>
