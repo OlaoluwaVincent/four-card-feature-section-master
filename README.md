@@ -59,4 +59,4 @@ Users should be able to:
 -   Website - [Olaoluwa Vincent](https://olaoluwa-portfolio.vercel.app)
 -   Frontend Mentor -
     [@OlaoluwaVincent](https://www.frontendmentor.io/profile/OlaoluwaVincent)
--   Twitter - [@yourusername](https://www.twitter.com/yourusername)
+-   Twitter - [@yourusername](https://www.twitter.com/olaoluwavincen5)
