@@ -36,23 +36,16 @@ Users should be able to:
 ### Links
 
 -   Solution URL:
-    [Solution](https://www.frontendmentor.io/solutions/html5-scsssass-flexboss-SQUWxBVBfq)
+    [Solution](https://www.frontendmentor.io/solutions/html5-and-tailwind-css-IbU3x3TE6x)
 -   Live Site URL:
-    [Live Preview](https://olaoluwavincent.github.io/single-price-grid-component-master/)
+    [Live Preview](https://olaoluwavincent.github.io/four-card-feature-section-master/)
 
 ### Built with
 
 -   Semantic HTML5 markup
--   CSS custom properties
--   Sass/Scss pre-processors
--   Flexbox
+-   Tailwind CSS
+-   Flexbox / Grid
 -   Mobile-first workflow
-
-### Useful resources
-
--   [Example resource
-    1]https://css-tricks.com/a-complete-guide-to-css-media-queries/) - This
-    helped me in uderstanding CSS Media Qeries Better
 
 ## Author
 
