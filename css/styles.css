@@ -583,6 +583,11 @@ video {
   .md\:justify-evenly {
     justify-content: space-evenly;
   }
+
+  .md\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
 }
 @media (min-width: 1024px) {
 
